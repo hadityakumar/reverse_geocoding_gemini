@@ -9,4 +9,6 @@ node_modules/
 uploads/
 # Ignore temporary files
 *.tmp
+# Ignore package lock files
+package-lock.json
    
