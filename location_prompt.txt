@@ -1,0 +1,1 @@
+I am sharing a call between call center operator of emergency response and a caller. The caller will says things about their problem and also mention the location of the issue. I just need the single string with english characters of appended location query that I can search on google maps to find the location accurately.
