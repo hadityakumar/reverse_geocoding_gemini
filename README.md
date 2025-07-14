@@ -47,7 +47,7 @@ A Node.js API server that uses Google's Gemini AI to extract structured data and
    cp .env.example .env
    ```
 
-4. **Configure environment variables** (see [Environment Setup](#environment-setup))
+4. **Configure environment variables** 
 
 5. **Start the server**
    ```bash
